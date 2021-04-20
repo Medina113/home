@@ -1,0 +1,41 @@
+div { 
+  background:#CCC;
+  margin:8px;
+  padding:5px;
+  width:100%;   }
+img {
+  width:100px;
+  height:auto;
+  display:block;
+  border-radius:50%;
+  box-shadow: 5px 5px #424242 
+}
+.menu {
+  width:100%;
+  background:#424242;
+  list-style:none;
+  margin:0px;
+  padding:0px;  }
+.menu li {
+  display:inline-block;  }
+.menu li a {
+  display:inline-block;
+  color:#FFF;
+  padding: 10px 20px;  }
+.menu li a:hover {
+  background:#CCC;
+  color:#000;  }  
+
+table {
+  border:1px solid #0A0A2A;  
+  border-collapse:collapse;
+  width:750px;  }
+table td {
+  border:1px solid #0A0A2A;
+  padding:10px;  }
+table td:hover {
+  background:#0A0A2A;
+  color:#FFF;  }
+table tr:hover {
+  background :#01DFD7;  }		
+
