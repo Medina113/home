@@ -1,6 +1,6 @@
 div { 
   background:#CCC;
-  margin:8px;
+  margin:10px;
   padding:5px;
   width:100%;   }
 img {
@@ -31,6 +31,7 @@ table {
   border-collapse:collapse;
   width:750px;  }
 table td {
+  text-align: center;
   border:1px solid #0A0A2A;
   padding:10px;  }
 table td:hover {
